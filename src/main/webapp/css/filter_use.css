@@ -1,0 +1,7 @@
+body, td, div, input { font-size: 12px; }
+		.error {
+			padding: 5px; 
+			border: 1px solid #FF0000; 
+			background: url(../images/error.gif) 8px 2px no-repeat #FFEEFF; 
+			padding-left: 30px; 
+		}
